@@ -205,4 +205,9 @@ public class RoomPlacer : MonoBehaviour
             }
         }
     }
+
+    private void RoomChanse()
+    {
+
+    }
 }

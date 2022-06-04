@@ -13,6 +13,7 @@ public class Room : MonoBehaviour
     public Vector2Int size;
     public Room[] rooms;
     public Vector2Int possition;
+    public int RoomID;
     private void Start()
     {
         foreach (var filter in GetComponentsInChildren<MeshFilter>())

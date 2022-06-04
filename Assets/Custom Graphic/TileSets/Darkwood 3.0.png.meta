@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 8d49481916449954696cd743c5cdee4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8748595054901188638
+    second: Darkwood 3.0_0
+  - first:
+      213: -707985878556811219
+    second: Darkwood 3.0_1
+  - first:
+      213: -2177328744622373743
+    second: Darkwood 3.0_2
+  - first:
+      213: 3658299111944553011
+    second: Darkwood 3.0_3
+  - first:
+      213: 994466016700818663
+    second: Darkwood 3.0_4
+  - first:
+      213: -2224029566746557895
+    second: Darkwood 3.0_5
+  - first:
+      213: 6082046557080935400
+    second: Darkwood 3.0_6
+  - first:
+      213: -1674039242857514445
+    second: Darkwood 3.0_7
+  - first:
+      213: 7602497981543714712
+    second: Darkwood 3.0_8
+  - first:
+      213: 8123773907263501747
+    second: Darkwood 3.0_9
+  - first:
+      213: 7265267074234332070
+    second: Darkwood 3.0_10
+  - first:
+      213: -1999611311577923103
+    second: Darkwood 3.0_11
+  - first:
+      213: 2066034058419583363
+    second: Darkwood 3.0_12
+  - first:
+      213: -7618127331755795082
+    second: Darkwood 3.0_13
+  - first:
+      213: 9036876374117908909
+    second: Darkwood 3.0_14
+  - first:
+      213: 2629985585948198465
+    second: Darkwood 3.0_15
+  - first:
+      213: 3035014790732723443
+    second: Darkwood 3.0_16
+  - first:
+      213: 7073601363512569823
+    second: Darkwood 3.0_17
+  - first:
+      213: -5575705573967464257
+    second: Darkwood 3.0_18
+  - first:
+      213: 4288076638982025846
+    second: Darkwood 3.0_19
+  - first:
+      213: -2039639235659132209
+    second: Darkwood 3.0_20
+  - first:
+      213: 3352814272446477137
+    second: Darkwood 3.0_21
+  - first:
+      213: -3578481051487502070
+    second: Darkwood 3.0_22
+  - first:
+      213: -3071737803064875882
+    second: Darkwood 3.0_23
+  - first:
+      213: -3289134141880742789
+    second: Darkwood 3.0_24
+  - first:
+      213: 8663634467475799084
+    second: Darkwood 3.0_25
+  - first:
+      213: -489906141459184811
+    second: Darkwood 3.0_26
+  - first:
+      213: -6687787208577326945
+    second: Darkwood 3.0_27
+  - first:
+      213: 8909131156264204357
+    second: Darkwood 3.0_28
+  - first:
+      213: -5731508844325945071
+    second: Darkwood 3.0_29
+  - first:
+      213: 2986484467044737654
+    second: Darkwood 3.0_30
+  - first:
+      213: -1535446712624139428
+    second: Darkwood 3.0_31
+  - first:
+      213: 6708403377440409072
+    second: Darkwood 3.0_32
+  - first:
+      213: -6108661529184170631
+    second: Darkwood 3.0_33
+  - first:
+      213: -3979937319912500676
+    second: Darkwood 3.0_34
+  - first:
+      213: -532832303139533286
+    second: Darkwood 3.0_35
+  - first:
+      213: 4316822971348865754
+    second: Darkwood 3.0_36
+  - first:
+      213: 2595730191718999344
+    second: Darkwood 3.0_37
+  - first:
+      213: -2636286823587775383
+    second: Darkwood 3.0_38
+  - first:
+      213: 5689742138087543999
+    second: Darkwood 3.0_39
+  - first:
+      213: 3791898328017072688
+    second: Darkwood 3.0_40
+  - first:
+      213: 6233803225420299896
+    second: Darkwood 3.0_41
+  - first:
+      213: 613561026734115368
+    second: Darkwood 3.0_42
+  - first:
+      213: -6000989790835693811
+    second: Darkwood 3.0_43
+  - first:
+      213: 1471495908887500618
+    second: Darkwood 3.0_44
+  - first:
+      213: 5174243310218202076
+    second: Darkwood 3.0_45
+  - first:
+      213: 2755019850182552495
+    second: Darkwood 3.0_46
+  - first:
+      213: -5224843058954369903
+    second: Darkwood 3.0_47
+  - first:
+      213: -5086037247919457767
+    second: Darkwood 3.0_48
+  - first:
+      213: 3468722610515772324
+    second: Darkwood 3.0_49
+  - first:
+      213: -3499160446356843099
+    second: Darkwood 3.0_50
+  - first:
+      213: -6747820187982425292
+    second: Darkwood 3.0_51
+  - first:
+      213: 7397571441886868804
+    second: Darkwood 3.0_52
+  - first:
+      213: -3722710268225795753
+    second: Darkwood 3.0_53
+  - first:
+      213: 2687115937870794266
+    second: Darkwood 3.0_54
+  - first:
+      213: 6396592345891622771
+    second: Darkwood 3.0_55
+  - first:
+      213: 1597234118547238675
+    second: Darkwood 3.0_56
+  - first:
+      213: 6031026782054883082
+    second: Darkwood 3.0_57
+  - first:
+      213: -5859327760488341409
+    second: Darkwood 3.0_58
+  - first:
+      213: 3325551863803149957
+    second: Darkwood 3.0_59
+  - first:
+      213: 6618817725466174629
+    second: Darkwood 3.0_0
+  - first:
+      213: 7983802196524779150
+    second: Darkwood 3.0_1
+  - first:
+      213: -4034475185965337990
+    second: Darkwood 3.0_2
+  - first:
+      213: 8544442394964755299
+    second: Darkwood 3.0_3
+  - first:
+      213: 7817006538362656079
+    second: Darkwood 3.0_4
+  - first:
+      213: 2878305196157356424
+    second: Darkwood 3.0_5
+  - first:
+      213: 6857799556464647450
+    second: Darkwood 3.0_6
+  - first:
+      213: 5824906530250178494
+    second: Darkwood 3.0_7
+  - first:
+      213: -1230572481620354656
+    second: Darkwood 3.0_8
+  - first:
+      213: -8980656904696215376
+    second: Darkwood 3.0_9
+  - first:
+      213: 7945261505479261231
+    second: Darkwood 3.0_10
+  - first:
+      213: -4420164871919515724
+    second: Darkwood 3.0_11
+  - first:
+      213: -2699353948892592001
+    second: Darkwood 3.0_12
+  - first:
+      213: -1224459384404630598
+    second: Darkwood 3.0_13
+  - first:
+      213: -5103915312192695465
+    second: Darkwood 3.0_14
+  - first:
+      213: 1805231230052473779
+    second: Darkwood 3.0_15
+  - first:
+      213: -8995893753000192995
+    second: Darkwood 3.0_16
+  - first:
+      213: -4484839857907840966
+    second: Darkwood 3.0_17
+  - first:
+      213: 6067841479312139779
+    second: Darkwood 3.0_18
+  - first:
+      213: -1369598528108369511
+    second: Darkwood 3.0_19
+  - first:
+      213: 5177508370267895656
+    second: Darkwood 3.0_20
+  - first:
+      213: -4663902888248831635
+    second: Darkwood 3.0_21
+  - first:
+      213: -6859307212281062188
+    second: Darkwood 3.0_22
+  - first:
+      213: 2905673440463356519
+    second: Darkwood 3.0_23
+  - first:
+      213: -2473979630456900875
+    second: Darkwood 3.0_24
+  - first:
+      213: 5512009419437116129
+    second: Darkwood 3.0_25
+  - first:
+      213: 7722962446933540512
+    second: Darkwood 3.0_26
+  - first:
+      213: -5550169113067542056
+    second: Darkwood 3.0_27
+  - first:
+      213: -6857525171129992321
+    second: Darkwood 3.0_28
+  - first:
+      213: -3455091835762159236
+    second: Darkwood 3.0_29
+  - first:
+      213: -2479731849935708801
+    second: Darkwood 3.0_30
+  - first:
+      213: -5743182476215108799
+    second: Darkwood 3.0_31
+  - first:
+      213: -1947439653717216175
+    second: Darkwood 3.0_32
+  - first:
+      213: 1719309102827026600
+    second: Darkwood 3.0_33
+  - first:
+      213: -1512224975878203834
+    second: Darkwood 3.0_34
+  - first:
+      213: 6609946923302505449
+    second: Darkwood 3.0_35
+  - first:
+      213: -1446874241055585207
+    second: Darkwood 3.0_36
+  - first:
+      213: -1673343122621180045
+    second: Darkwood 3.0_37
+  - first:
+      213: -7605829505614720249
+    second: Darkwood 3.0_38
+  - first:
+      213: -4164899715792811466
+    second: Darkwood 3.0_39
+  - first:
+      213: -3600844946622972438
+    second: Darkwood 3.0_40
+  - first:
+      213: -3739563314816630496
+    second: Darkwood 3.0_41
+  - first:
+      213: -3341729164965525485
+    second: Darkwood 3.0_42
+  - first:
+      213: 4241389331411979543
+    second: Darkwood 3.0_43
+  - first:
+      213: -883902570799536735
+    second: Darkwood 3.0_44
+  - first:
+      213: -2630750589974966186
+    second: Darkwood 3.0_45
+  - first:
+      213: 4262821807718440313
+    second: Darkwood 3.0_46
+  - first:
+      213: 3381452183504631306
+    second: Darkwood 3.0_47
+  - first:
+      213: -3894189473648597737
+    second: Darkwood 3.0_48
+  - first:
+      213: -3202291168559832181
+    second: Darkwood 3.0_49
+  - first:
+      213: 1632269950836764764
+    second: Darkwood 3.0_50
+  - first:
+      213: -8573580524198813082
+    second: Darkwood 3.0_51
+  - first:
+      213: -5827596476582720361
+    second: Darkwood 3.0_52
+  - first:
+      213: 3877246713276159302
+    second: Darkwood 3.0_53
+  - first:
+      213: -4018032151993093492
+    second: Darkwood 3.0_54
+  - first:
+      213: 5456696865067009601
+    second: Darkwood 3.0_55
+  - first:
+      213: -3431828808260110958
+    second: Darkwood 3.0_56
+  - first:
+      213: -7135829880789473807
+    second: Darkwood 3.0_57
+  - first:
+      213: 3035828041272125200
+    second: Darkwood 3.0_58
+  - first:
+      213: 6037962006525836914
+    second: Darkwood 3.0_59
+  - first:
+      213: 1859057829996749365
+    second: Darkwood 3.0_60
+  - first:
+      213: 2595685001015841458
+    second: Darkwood 3.0_61
+  - first:
+      213: -1284480428000089112
+    second: Darkwood 3.0_62
+  - first:
+      213: -4474391044042159404
+    second: Darkwood 3.0_63
+  - first:
+      213: -6017056021004003129
+    second: Darkwood 3.0_64
+  - first:
+      213: -1205188959886712260
+    second: Darkwood 3.0_65
+  - first:
+      213: -5236598566480570930
+    second: Darkwood 3.0_66
+  - first:
+      213: 1427059744455691491
+    second: Darkwood 3.0_67
+  - first:
+      213: -8670590560400408512
+    second: Darkwood 3.0_68
+  - first:
+      213: 4185824176970022326
+    second: Darkwood 3.0_69
+  - first:
+      213: -8038738749806622423
+    second: Darkwood 3.0_70
+  - first:
+      213: -2486540132277641455
+    second: Darkwood 3.0_71
+  - first:
+      213: 6843544858852918389
+    second: Darkwood 3.0_72
+  - first:
+      213: 4538052221672257983
+    second: Darkwood 3.0_73
+  - first:
+      213: 2676070587301689561
+    second: Darkwood 3.0_74
+  - first:
+      213: 4165310135418469292
+    second: Darkwood 3.0_75
+  - first:
+      213: 793693275092504464
+    second: Darkwood 3.0_76
+  - first:
+      213: 1317264485248053793
+    second: Darkwood 3.0_77
+  - first:
+      213: -5399325023657302598
+    second: Darkwood 3.0_78
+  - first:
+      213: -5843941145597317615
+    second: Darkwood 3.0_79
+  - first:
+      213: 4806245973900940556
+    second: Darkwood 3.0_80
+  - first:
+      213: 9163572824533495060
+    second: Darkwood 3.0_81
+  - first:
+      213: 2582266943771631548
+    second: Darkwood 3.0_82
+  - first:
+      213: 3868326436323357643
+    second: Darkwood 3.0_83
+  - first:
+      213: 7387410193147068023
+    second: Darkwood 3.0_84
+  - first:
+      213: -777164419791175975
+    second: Darkwood 3.0_85
+  - first:
+      213: -1327821662956668764
+    second: Darkwood 3.0_86
+  - first:
+      213: -5436362000898963525
+    second: Darkwood 3.0_87
+  - first:
+      213: 3486595298438735602
+    second: Darkwood 3.0_88
+  - first:
+      213: 342434553220566854
+    second: Darkwood 3.0_89
+  - first:
+      213: -6009290518802594398
+    second: Darkwood 3.0_90
+  - first:
+      213: 5838307541526954096
+    second: Darkwood 3.0_91
+  - first:
+      213: 5714463095148627568
+    second: Darkwood 3.0_92
+  - first:
+      213: 3876728900152786073
+    second: Darkwood 3.0_93
+  - first:
+      213: 6667801792958697701
+    second: Darkwood 3.0_94
+  - first:
+      213: 3937885229951207266
+    second: Darkwood 3.0_95
+  - first:
+      213: 8495830331703070379
+    second: Darkwood 3.0_96
+  - first:
+      213: -8635751907527706832
+    second: Darkwood 3.0_97
+  - first:
+      213: -7001853673472687511
+    second: Darkwood 3.0_98
+  - first:
+      213: -7316673925929315727
+    second: Darkwood 3.0_99
+  - first:
+      213: -2609353379237685528
+    second: Darkwood 3.0_100
+  - first:
+      213: 8156365477060946248
+    second: Darkwood 3.0_101
+  - first:
+      213: -8041362771041946485
+    second: Darkwood 3.0_102
+  - first:
+      213: -4614671696699727006
+    second: Darkwood 3.0_103
+  - first:
+      213: -3218798992709458319
+    second: Darkwood 3.0_104
+  - first:
+      213: -2347998614041302896
+    second: Darkwood 3.0_105
+  - first:
+      213: -4513885250238354029
+    second: Darkwood 3.0_106
+  - first:
+      213: 8473338781915775635
+    second: Darkwood 3.0_107
+  - first:
+      213: -2823966582654188633
+    second: Darkwood 3.0_108
+  - first:
+      213: -3911229202997061416
+    second: Darkwood 3.0_109
+  - first:
+      213: -5929188057018077483
+    second: Darkwood 3.0_110
+  - first:
+      213: 294037874942165508
+    second: Darkwood 3.0_111
+  - first:
+      213: 5775803833983353645
+    second: Darkwood 3.0_112
+  - first:
+      213: 7728347281412506411
+    second: Darkwood 3.0_113
+  - first:
+      213: 2805577108939768566
+    second: Darkwood 3.0_114
+  - first:
+      213: -8115922706312841139
+    second: Darkwood 3.0_115
+  - first:
+      213: 7542392868040909435
+    second: Darkwood 3.0_116
+  - first:
+      213: 9079389288663012186
+    second: Darkwood 3.0_117
+  - first:
+      213: -8434695884230791653
+    second: Darkwood 3.0_118
+  - first:
+      213: -7295224744504523556
+    second: Darkwood 3.0_119
+  - first:
+      213: 100543311878040594
+    second: Darkwood 3.0_120
+  - first:
+      213: -6157981425557889623
+    second: Darkwood 3.0_121
+  - first:
+      213: 2760159348033441683
+    second: Darkwood 3.0_122
+  - first:
+      213: -9103915253541967665
+    second: Darkwood 3.0_123
+  - first:
+      213: -3830369354258263954
+    second: Darkwood 3.0_124
+  - first:
+      213: 4049150812527825404
+    second: Darkwood 3.0_125
+  - first:
+      213: 2564138729621975300
+    second: Darkwood 3.0_126
+  - first:
+      213: 6965219504232837431
+    second: Darkwood 3.0_127
+  - first:
+      213: 1851721810639575217
+    second: Darkwood 3.0_128
+  - first:
+      213: 3514331814663677717
+    second: Darkwood 3.0_129
+  - first:
+      213: -6407483357949553409
+    second: Darkwood 3.0_130
+  - first:
+      213: -4252010159742327589
+    second: Darkwood 3.0_131
+  - first:
+      213: 5874052693888392254
+    second: Darkwood 3.0_132
+  - first:
+      213: -7377882271587567327
+    second: Darkwood 3.0_133
+  - first:
+      213: 4333613304926259858
+    second: Darkwood 3.0_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkwood 3.0_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 549
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4687f37a3cadb50800000000000000
+      internalID: 6618817725466174629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 548
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c7d83cc92cce60800000000000000
+      internalID: 7983802196524779150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a727865a13aa208c0800000000000000
+      internalID: -4034475185965337990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36389ab7615f39670800000000000000
+      internalID: 8544442394964755299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451306c7069b7c60800000000000000
+      internalID: 7817006538362656079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 549
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ce14735bc1f720800000000000000
+      internalID: 2878305196157356424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 549
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d18e7cc5ccb2f50800000000000000
+      internalID: 6857799556464647450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 351
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3a69a0a936d050800000000000000
+      internalID: 5824906530250178494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 549
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d5aa09d02ceee0800000000000000
+      internalID: -1230572481620354656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3da15e3d334e60800000000000000
+      internalID: 7945261505479261231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c390d77b68a2c0800000000000000
+      internalID: -4420164871919515724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 450
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788531a2e7f98ad0800000000000000
+      internalID: -2699353948892592001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 351
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867fd6f5e643ad740800000000000000
+      internalID: 5177508370267895656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619207980d764fb0800000000000000
+      internalID: -4663902888248831635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwood 3.0_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc56bebe68dec0a0800000000000000
+      internalID: -6859307212281062188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -43,25 +43,25 @@ public class Player2DControl : MonoBehaviour
         body.freezeRotation = true;
     }
 
-    void OnCollisionStay2D(Collision2D coll)
-    {
-        if (coll.transform.tag == "ground")
-        {
-            anim.SetBool("isJump", false);
-            body.drag = 10;
-            jump = true;
-        }
-    }
+    //void OnCollisionStay2D(Collision2D coll)
+    //{
+    //    if (coll.transform.tag == "ground")
+    //    {
+    //        anim.SetBool("isJump", false);
+    //        body.drag = 10;
+    //        jump = true;
+    //    }
+    //}
 
-    void OnCollisionExit2D(Collision2D coll)
-    {
-        if (coll.transform.tag == "ground")
-        {
-            body.drag = 0;
-            jump = false;
-            anim.SetBool("isJump", true);
-        }
-    }
+    //void OnCollisionExit2D(Collision2D coll)
+    //{
+    //    if (coll.transform.tag == "ground")
+    //    {
+    //        body.drag = 0;
+    //        jump = false;
+    //        anim.SetBool("isJump", true);
+    //    }
+    //}
 
     void FixedUpdate()
     {
@@ -137,12 +137,24 @@ public class Player2DControl : MonoBehaviour
     void Update()
     {
        
-        if (horizontal !=0)
+        if(body.velocity.y<-0.5 || body.velocity.y > 0.5)
         {
-            anim.SetBool("isRun", true);
+            body.drag = 0;
+            jump = false;
+            anim.SetBool("isJump", true);
         }
         else
-            anim.SetBool("isRun", false);
+        {
+            anim.SetBool("isJump", false);
+            body.drag = 10;
+            jump = true;
+            if (horizontal != 0)
+            {
+                anim.SetBool("isRun", true);
+            }
+            else
+                anim.SetBool("isRun", false);
+        }
 
        
     }
