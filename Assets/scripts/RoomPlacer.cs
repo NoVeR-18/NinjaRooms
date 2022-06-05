@@ -8,14 +8,16 @@ public class RoomPlacer : MonoBehaviour
     public Room[] RoomPrefabs;
     public Room StartingRoom;
 
+    private int parrentRoom;
     private Room[,] spawnedRooms;
 
     private IEnumerator Start()
     {
-        spawnedRooms = new Room[30, 11];
-        spawnedRooms[0, 5] = StartingRoom;
+        spawnedRooms = new Room[50, 21];
+        spawnedRooms[0, 10] = StartingRoom;
+        parrentRoom = StartingRoom.RoomID;
 
-        for (int i = 0; i < 30; i++)
+        for (int i = 0; i < 800; i++)
         {
             // Это вот просто убрать чтобы подземелье генерировалось мгновенно на старте
             yield return new WaitForSecondsRealtime(0.1f);
@@ -57,7 +59,7 @@ public class RoomPlacer : MonoBehaviour
 
             if (ConnectToSomething(newRoom, position))
             {
-                newRoom.transform.position = new Vector3(position.x * 25, (position.y - 5)*21);
+                newRoom.transform.position = new Vector3(position.x * 25, (position.y - 10)*21);
                 spawnedRooms[position.x, position.y] = newRoom;
                 return;
             }
@@ -110,8 +112,9 @@ public class RoomPlacer : MonoBehaviour
 
     private void RoomPlace()
     {
-        Room newRoom = Instantiate(RoomPrefabs[Random.Range(0, RoomPrefabs.Length)]);
+        Room newRoom = Instantiate(RoomPrefabs[RoomChanse()]);
 
+        parrentRoom = newRoom.RoomID;
         HashSet<Vector2Int> vacantPlaces = new HashSet<Vector2Int>();
         for (int x = 0; x < spawnedRooms.GetLength(0); x++)
         {
@@ -173,10 +176,14 @@ public class RoomPlacer : MonoBehaviour
             return true;
         }
 
-
+        if(vacantPlaces.Count == 0)
+        {
+            Destroy(newRoom.gameObject);
+            return;
+        }
         Vector2Int position = vacantPlaces.ElementAt(Random.Range(0, vacantPlaces.Count));
         newRoom.possition = position;
-        newRoom.transform.position = new Vector3(position.x * 25, (position.y - 5) * 21);
+        newRoom.transform.position = new Vector3(position.x * 25, (position.y - 10) * 21);
 
         int num = 0;
         for(int i=0;i<newRoom.size.x;i++)
@@ -206,8 +213,62 @@ public class RoomPlacer : MonoBehaviour
         }
     }
 
-    private void RoomChanse()
+    private int RoomChanse()
     {
+        int[] IDs = new int[RoomPrefabs.Length];
+        for(int i =0; i< RoomPrefabs.Length; i++)
+        {
+            IDs[i] = RoomPrefabs[i].RoomID;
+        }
+        int[] elements = new int[0];
+        int ID = NewGen(IDs);
+        int j = 0;
+        for (int i = 0;i<IDs.Length;i++)
+        {
+            if(IDs[i] == ID)
+            {
+                System.Array.Resize(ref elements, j + 1);
+                elements[j] = i;
+                j++;
+            }
+
+        }
+        return elements[Random.Range(0, elements.Length)];
+        
+    }
+    private int NewGen(int[] IDs)
+    {
+        if (IDs.Length <= 1)
+            return IDs[0];
+        int[] tempArr = new int[(IDs.Length + 1) / 2];
+        int i = 0;
+        int size;
+        if (IDs.Length % 2 == 1)
+        {
+            size = IDs.Length - 1;
+            tempArr[tempArr.Length - 1] = IDs[size];
+        }
+        else
+            size = IDs.Length;
+        for (int j = 0; j <= size-1; j++)
+        {
+            int[] child = { IDs[j], parrentRoom, IDs[j + 1], parrentRoom };//создание детей
+            if (IDs[j] == parrentRoom)
+            {
+                child[0] = IDs[j + 1];
+                child[2] = IDs[j];
+            }
+            else
+            {
+                child[0] = IDs[j];
+                child[2] = IDs[j + 1];
+            }
+            j++;
+            tempArr[i] = child[Random.Range(0, 4)];
+            i++;
+        }
+        //Debug.Log(tempArr.Length);
+        return NewGen(tempArr);
 
     }
 }

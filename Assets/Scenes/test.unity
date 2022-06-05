@@ -13655,6 +13655,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room 5
       objectReference: {fileID: 0}
+    - target: {fileID: 7537009017175548292, guid: 40181c6834fe62a4da0b57ad53f11c71,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7537009017175548295, guid: 40181c6834fe62a4da0b57ad53f11c71,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16720,8 +16725,8 @@ MonoBehaviour:
   size: {x: 1, y: 1}
   rooms:
   - {fileID: 8162461919507253444}
-  possition: {x: 0, y: 0}
-  RoomID: 0
+  possition: {x: 0, y: 12}
+  RoomID: 1
 --- !u!114 &8266805048302922919
 MonoBehaviour:
   m_ObjectHideFlags: 0
