@@ -1,0 +1,353 @@
+﻿{
+  "items": [
+    {
+      "key": "English",
+      "value": "日本"
+    },
+    {
+      "key": "Sound",
+      "value": "音"
+    },
+    {
+      "key": "Log out",
+      "value": "ログアウト"
+    },
+    {
+      "key": "Confirmation",
+      "value": "確認"
+    },
+    {
+      "key": "Login bonus",
+      "value": "ログインボーナス"
+    },
+    {
+      "key": "Not enough coins",
+      "value": "<color=red>十分なコインがありません</color>"
+    },
+    {
+      "key": "When you log",
+      "value": "ログインするとコインと,\n 経験値をためられるよ！"
+    },
+    {
+      "key": "No internet connection",
+      "value": "インターネット接続なし"
+    },
+    {
+      "key": "password",
+      "value": "パスワード"
+    },
+    {
+      "key": "username",
+      "value": "ユーザー名"
+    },
+    {
+      "key": "I have created an account!",
+      "value": "アカウントを作成しました！"
+    },
+    {
+      "key": "Required coins : 100",
+      "value": "必要なコイン : 100"
+    },
+    {
+      "key": "Required coins : 200",
+      "value": "必要なコイン : 200"
+    },
+    {
+      "key": "Required coins : 400",
+      "value": "必要なコイン : 400"
+    },
+    {
+      "key": "Required coins : 800",
+      "value": "必要なコイン : 800"
+    },
+    {
+      "key": "World rank",
+      "value": "世界ランク"
+    },
+    {
+      "key": "Card terminal",
+      "value": "カード端末"
+    },
+    {
+      "key": "Achievement",
+      "value": "成果"
+    },
+    {
+      "key": "purchase",
+      "value": "購入"
+    },
+    {
+      "key": "Automated cash register",
+      "value": "自動化レジ"
+    },
+    {
+      "key": "robot",
+      "value": "ロボット"
+    },
+    {
+      "key": "salesperson",
+      "value": "店員"
+    },
+    {
+      "key": "Alright",
+      "value": "よし"
+    },
+    {
+      "key": "Please wait..",
+      "value": "お待ちください.."
+    },
+    {
+      "key": "yes",
+      "value": "はい"
+    },
+    {
+      "key": "no",
+      "value": "いいえ"
+    },
+    {
+      "key": "Other games",
+      "value": "その他のゲーム"
+    },
+    {
+      "key": "sign up",
+      "value": "サインアップ"
+    },
+    {
+      "key": "Small shop",
+      "value": "ちいさなお店"
+    },
+    {
+      "key": "convenience store",
+      "value": "コンビニ,\n必須レベル：3\""
+    },
+    {
+      "key": "Department store",
+      "value": "デパート,\n必須レベル：10"
+    },
+    {
+      "key": "close",
+      "value": "閉じる"
+    },
+    {
+      "key": "Login",
+      "value": "ログイン"
+    },
+    {
+      "key": "start",
+      "value": "開始"
+    },
+    {
+      "key": "refresh",
+      "value": "<color=red>リフレッシュ</color>"
+    },
+    {
+      "key": "Create an account",
+      "value": "アカウント作成"
+    },
+    {
+      "key": "receive",
+      "value": "受け取る"
+    },
+    {
+      "key": "Supermarket",
+      "value": "スーパー,\n必須レベル：6"
+    },
+    {
+      "key": "Required experience points: 1300xp",
+      "value": "必須経験値：1300xp"
+    },
+    {
+      "key": "Required experience points: 600xp",
+      "value": "必須経験値：600xp"
+    },
+    {
+      "key": "Required experience points: 180xp",
+      "value": "必須経験値：180xp"
+    },
+    {
+      "key": "Required experience points: 30xp",
+      "value": "必須経験値：30xp"
+    },
+    {
+      "key": "Do you have an account?",
+      "value": "アカウントをお持ちではありませんか？"
+    },
+    {
+      "key": "If you cannot scan the QR",
+      "value": "スキャンできない場合QRコードログイン元 <color=magenta>ここに</color>"
+    },
+    {
+      "key": "Loading",
+      "value": "読み込み中..."
+    },
+    {
+      "key": "Consume 100 coins",
+      "value": "コインを100枚消費して\n「<color=blue>バーコードスキャナ</color>」を購入しますか?"
+    },
+    {
+      "key": "Scan the QR code Please log in",
+      "value": "QRコードをスキャンするログインしてください"
+    },
+    {
+      "key": "If you can do it in time",
+      "value": "時間内にちゃんと出来たら、コインがもらえるよ！コインは色んなアイテムと交換出来るよ！"
+    },
+    {
+      "key": "Consume 400 coins",
+      "value": "コインを400枚消費して,\n「<color=blue>クレジットカード端末</color>」を購入しますか?"
+    },
+    {
+      "key": "Consume 200 coins",
+      "value": "コインを200枚消費して,\n「<color=blue>クレジットカード端末</color>」を購入しますか?"
+    },
+    {
+      "key": "Consume 800 coin",
+      "value": "コインを800枚消費して,\n「<color=blue>クレジットカード端末</color>」を購入しますか?"
+    },
+    {
+      "key": "message",
+      "value": "メッセージ"
+    },
+    {
+      "key": "Item price",
+      "value": "アイテムの価格を,\n入力してください"
+    },
+    {
+      "key": "A network error has occurred.",
+      "value": "ネットワークエラーが発生しました。"
+    },
+    {
+      "key": "I don't have enough coins",
+      "value": "<color=red>十分なコインがありません</color>"
+    },
+    {
+      "key": "Scanning",
+      "value": "スキャン中"
+    },
+    {
+      "key": "check",
+      "value": "チェック"
+    },
+    {
+      "key": "Game complete",
+      "value": "ゲーム完了"
+    },
+    {
+      "key": "pause",
+      "value": "一時停止"
+    },
+    {
+      "key": "Return change",
+      "value": "おつりをかえす"
+    },
+    {
+      "key": "purchase: 800",
+      "value": "購入: 800"
+    },
+    {
+      "key": "purchase: 200",
+      "value": "購入: 200"
+    },
+    {
+      "key": "Deposited amount: 100 a",
+      "value": "お預かりした金額: 100 a"
+    },
+    {
+      "key": "total",
+      "value": "合計"
+    },
+    {
+      "key": "Purchase: 400",
+      "value": "購入: 400"
+    },
+    {
+      "key": "Enter the amount and press Total",
+      "value": "金額を入力して「合計」を押してね！"
+    },
+    {
+      "key": "Project the change",
+      "value": "おつりをがめんにうつして、,「チェック」ボタンをおしてね！"
+    },
+    {
+      "key": "back to menu",
+      "value": "メニューに戻る"
+    },
+    {
+      "key": "Barcode scanner",
+      "value": "バーコードスキャナ"
+    },
+    {
+      "key": "Credit card terminal",
+      "value": "クレジットカード端末"
+    },
+    {
+      "key": "Increase the coin",
+      "value": "コインの獲得率を100％アップ, <color=red>このアイテムを使用しますか？</color>"
+    },
+    {
+      "key": "Reduced product scanning",
+      "value": "商品のスキャン時間を-2秒短縮, <color=red>このアイテムを使用しますか？</color>"
+
+    },
+    {
+      "key": "Increase coin",
+      "value": "コインの獲得率を50％アップ, <color=red>このアイテムを使用しますか？</color>"
+    },
+    {
+      "key": "Increases the rate",
+      "value": "経験値の上昇率を50％アップ, <color=red>このアイテムを使用しますか？</color>"
+    },
+    {
+      "key": "Wrong change:",
+      "value": "誤った変更 : "
+    },
+    {
+      "key": "Please enter the amount",
+      "value": "\nお預かりした金額を\n入力してください"
+    },
+    {
+      "key": "Cash received",
+      "value": "受け取った現金"
+    },
+    {
+      "key": "Balance",
+      "value": "残高"
+    },
+    {
+      "key": "change",
+      "value": "おつり"
+    },
+    {
+      "key": "Incorrect answer",
+      "value": "不正解！"
+    },
+    {
+      "key": "returned",
+      "value": "をお返ししました。"
+    },
+    {
+      "key": "correct answer",
+      "value": "正解!"
+    },
+    {
+      "key": "Amount of money",
+      "value": "正解!"
+    },
+    {
+      "key": "Sign up failed",
+      "value": "サインアップに失敗しました!"
+    },
+    {
+      "key": "Wrong user ID or password",
+      "value": "間違ったユーザーIDまたはパスワード"
+    },
+    {
+      "key": "forgot password",
+      "value": "パスワードをお忘れですか？"
+    },
+    {
+      "key": "pin",
+      "value": "ピン"
+    }
+  ]
+}

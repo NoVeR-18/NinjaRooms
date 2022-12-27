@@ -5,36 +5,53 @@ using UnityEngine;
 
 public class PlayerItems : MonoBehaviour
 {
+    [SerializeField]
     private Item Helmet;
+    [SerializeField]
     private Item Cloack;
+    [SerializeField]
     private Item Armor;
+    [SerializeField]
     private Item Weapon;
+    [SerializeField]
     private Item Leggings;
+    [SerializeField]
     private Item Shoes;
 
-     
+    private ItemData itemsData = new ItemData();
+
+    private string path;
+
+    private void Start()
+    {
+        path = Application.dataPath + "/Items/";
+    }
     public void Name(string name, int Id)
     {
+        string dataAsJson;
+        dataAsJson = File.ReadAllText(path + name + ".json");
+        itemsData = JsonUtility.FromJson<ItemData>(dataAsJson);
         switch (name)
         {
             case "Helmet":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Helmet"+Id+".json"));
 
+                //Helmet = JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Helmet"+Id+".json"));
+                Helmet = itemsData.items[Id];
                 break;
-            case "Cloack":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Cloack" + Id+".json"));
+            case "Cloak":
+                Cloack = itemsData.items[Id];
                 break;
             case "Armor":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Armor" + Id+".json"));
+                Armor = itemsData.items[Id];
                 break;
             case "Weapon":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Weapon" + Id+".json"));
+                Weapon = itemsData.items[Id];
                 break;
             case "Leggings":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Leggings" + Id+".json"));
+                Leggings = itemsData.items[Id];
                 break;
             case "Shoes":
-                Helmet= JsonUtility.FromJson<Item>(File.ReadAllText(Application.dataPath + "/Items/Shoes" + Id+".json"));
+                Shoes = itemsData.items[Id];
                 break;
         }
 

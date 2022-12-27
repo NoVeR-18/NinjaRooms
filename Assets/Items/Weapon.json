@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 1,
+      "Unlock": true,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 10,
+        "Mana": 10,
+        "Damage": 0,
+        "Speed": 0.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 2,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 3,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 4,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 5,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 6,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 7,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 8,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 9,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 10,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 11,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 12,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 13,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 14,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    },
+    {
+      "id": 15,
+      "Unlock": false,
+      "Name": "Weapon",
+      "stats": {
+        "Healt": 70,
+        "Mana": 20,
+        "Damage": 0,
+        "Speed": 10.0
+      },
+      "SourceImage": { "instanceID": 15172 },
+      "description": ""
+    }
+  ]
+}
